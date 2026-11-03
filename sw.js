@@ -1,3 +1,4 @@
+/* build: 1793672813 */
 /* Guardado del sitio para abrir sin señal. Con internet siempre carga la versión nueva. */
 const V = 'gv-v1';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'favicon.ico', 'favicon-48.png', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png'];
